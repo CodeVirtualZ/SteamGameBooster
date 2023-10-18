@@ -1,0 +1,13 @@
+D:\SteamGameBooster\bin\Debug\SteamGameBooster.exe.config
+D:\SteamGameBooster\bin\Debug\SteamGameBooster.exe
+D:\SteamGameBooster\bin\Debug\SteamGameBooster.pdb
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.csproj.AssemblyReference.cache
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.csproj.SuggestedBindingRedirects.cache
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.Form1.resources
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.Properties.Resources.resources
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.csproj.GenerateResource.cache
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.csproj.CoreCompileInputs.cache
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.exe
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.pdb
+D:\SteamGameBooster\bin\Debug\Steam4NET.dll
+D:\SteamGameBooster\obj\Debug\SteamGameBooster.csproj.CopyComplete
